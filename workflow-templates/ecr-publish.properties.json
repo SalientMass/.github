@@ -1,4 +1,11 @@
 {
     "name": "ECR Publishing Workflow",
     "description": "ECR Publishing Workflow starter workflow.",
+    "iconName": "octicon smiley",
+    "categories": [
+        "deployment"
+    ],
+    "filePatterns": [
+        "^Dockerfile"
+    ]
 }
